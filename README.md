@@ -1,6 +1,6 @@
 # Skin Lesion Classification Model 
 
-## 3rd overall, 1st in category out of 158 participants at UCI Datathon 2025.
+### 3rd overall, 1st in category out of 158 participants at UCI Datathon 2025.
 
 ## Project Overview
 This project implements a machine learning system for the classification of skin lesions as either benign (0) or malignant (1). The model is designed to assist medical professionals in the early detection of skin cancer by providing an automated assessment of skin lesion images.
